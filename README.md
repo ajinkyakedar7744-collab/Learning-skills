@@ -4,12 +4,12 @@ Aspiring Data Scientist | Python | SQL | Machine Learning
 
 I'm a fresher engineer interested in data science, data analytics, and machine learning. I enjoy exploring datasets, building predictive models, and turning data into useful insights.
 
-Technical Skills
-Programming: Python, SQL
-Data Analysis: Pandas, NumPy, Excel
-Visualization: Matplotlib, Seaborn, Power BI
-Machine Learning: Scikit-learn
-Tools: GitHub, Jupyter Notebook
+Technical Skills<br>
+Programming: Python, SQL<br>
+Data Analysis: Pandas, NumPy, Excel<br>
+Visualization: Matplotlib, Seaborn, Power BI<br>
+Machine Learning: Scikit-learn<br>
+Tools: GitHub, Jupyter Notebook<br>
 Featured Projects
 1. Sales Data Analysis
 
