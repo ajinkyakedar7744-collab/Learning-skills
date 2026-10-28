@@ -1,33 +1,77 @@
 # Learning-skills
-Hi, I'm Ajinkya 👋
-Aspiring Data Scientist | Python | SQL | Machine Learning
 
-I'm a fresher engineer interested in data science, data analytics, and machine learning. I enjoy exploring datasets, building predictive models, and turning data into useful insights.
+<h1 align="center">Hi, I'm Ajinkya 👋</h1>
 
-Technical Skills<br>
-Programming: Python, SQL<br>
-Data Analysis: Pandas, NumPy, Excel<br>
-Visualization: Matplotlib, Seaborn, Power BI<br>
-Machine Learning: Scikit-learn<br>
-Tools: GitHub, Jupyter Notebook<br>
-Featured Projects
-1. Sales Data Analysis
+<h3 align="center">
+  Aspiring Data Scientist | Python | SQL | Machine Learning
+</h3>
 
-Exploratory analysis of sales data to identify revenue trends and business insights. View Project
+<p align="center">
+  I'm a fresher engineer interested in data science, data analytics,
+  and machine learning. I enjoy exploring datasets, building predictive
+  models, and turning data into useful insights.
+</p>
 
-2. SQL Sales Analysis
+<hr>
 
-SQL queries to analyze sales performance and product trends. View Project
+<h2>🛠️ Technical Skills</h2>
 
-3. Customer Churn Prediction
+<ul>
+  <li><strong>Programming:</strong> Python, SQL</li>
+  <li><strong>Data Analysis:</strong> Pandas, NumPy, Excel</li>
+  <li><strong>Visualization:</strong> Matplotlib, Seaborn, Power BI</li>
+  <li><strong>Machine Learning:</strong> Scikit-learn</li>
+  <li><strong>Tools:</strong> GitHub, Jupyter Notebook</li>
+</ul>
 
-A machine learning project to predict customer churn and evaluate model performance. View Project
+<hr>
 
-Currently Learning
-Advanced SQL
-Machine Learning
-Statistics and Probability
-Model Evaluation
-Connect With Me
-LinkedIn: 
-Email: ajinkyakedar7744@gmail.com
+<h2>📂 Featured Projects</h2>
+
+<h3>1. 📊 Sales Data Analysis</h3>
+<p>
+  Exploratory analysis of sales data to identify revenue trends
+  and business insights.
+  <br>
+  <a href="YOUR_SALES_REPOSITORY_URL">View Project</a>
+</p>
+
+<h3>2. 🗄️ SQL Sales Analysis</h3>
+<p>
+  SQL queries to analyze sales performance and product trends.
+  <br>
+  <a href="YOUR_SQL_REPOSITORY_URL">View Project</a>
+</p>
+
+<h3>3. 🤖 Customer Churn Prediction</h3>
+<p>
+  A machine learning project to predict customer churn and
+  evaluate model performance.
+  <br>
+  <a href="YOUR_CHURN_REPOSITORY_URL">View Project</a>
+</p>
+
+<hr>
+
+<h2>📚 Currently Learning</h2>
+
+<ul>
+  <li>Advanced SQL</li>
+  <li>Machine Learning</li>
+  <li>Statistics and Probability</li>
+  <li>Model Evaluation</li>
+</ul>
+
+<hr>
+
+<h2>📫 Connect With Me</h2>
+
+<p>
+  <strong>LinkedIn:</strong>
+  <a href="YOUR_LINKEDIN_URL">Connect with me</a>
+  <br>
+  <strong>Email:</strong>
+  <a href="mailto:ajinkyakedar7744@gmail.com">
+    ajinkyakedar7744@gmail.com
+  </a>
+</p>
