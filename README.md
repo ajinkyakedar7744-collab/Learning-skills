@@ -1,8 +1,12 @@
 
 <h1 align="center">Data Science, Generative AI & Agentic AI 🚀</h1>
 
-<h2>Hi, I'm Ajinkya 👋</h2>
-
+<h2>
+  Hi, I'm Ajinkya
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"
+       width="35"
+       alt="Waving hand">
+</h2>
 <h3>
   Aspiring Data Scientist | Python | SQL | Machine Learning |
   Generative AI | Agentic AI
